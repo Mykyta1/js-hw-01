@@ -1,2 +1,2 @@
-# js-hw-01
+# js-hw
 js-hw-01
